@@ -2,26 +2,24 @@
 template: ContactPage
 slug: contact
 title: Kontakt
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+featuredImage: https://ucarecdn.com/a5bd2565-3977-43ab-9c8a-0d9ee76c421b/
+subtitle: >-
+  <!--StartFragment-->
+
+
+  Interesuje cię grawerowanie laserem? Zobacz jak możesz się z nami skontaktować lub do nas dojechać.
+
+
+  <!--EndFragment-->
+address: Uhowo
+phone: 510 687 686
+email: biuro@lasmit.pl
 locations:
-  - lat: "-27.9654732"
-    lng: "153.2432449"
-    mapLink: ""
+  - mapLink: https://goo.gl/maps/NLTSdRHgX59fWKJE7
+    lat: ""
+    lng: ""
 meta:
   description: This is a meta description.
-  title: Contact Page
+  title: Kontakt
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# Bartosz Kusznierko
