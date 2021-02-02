@@ -14,10 +14,7 @@ subtitle: >-
 address: Uhowo
 phone: 510 687 686
 email: biuro@lasmit.pl
-locations:
-  - mapLink: 53.004321,22.8963394,14
-    lat: ""
-    lng: ""
+locations: []
 meta:
   description: This is a meta description.
   title: Kontakt
