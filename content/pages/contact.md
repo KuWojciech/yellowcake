@@ -15,11 +15,12 @@ address: Uhowo
 phone: 510 687 686
 email: biuro@lasmit.pl
 locations:
-  - mapLink: https://goo.gl/maps/NLTSdRHgX59fWKJE7
-    lat: ""
+  - mapLink: ""
+    lat: https://goo.gl/maps/NLTSdRHgX59fWKJE7
     lng: ""
 meta:
   description: This is a meta description.
   title: Kontakt
+  noindex: false
 ---
 # Bartosz Kusznierko
